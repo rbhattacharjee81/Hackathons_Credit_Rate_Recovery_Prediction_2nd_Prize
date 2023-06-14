@@ -5,3 +5,5 @@ auction the cars for default customers and thus define a recovery rate.
 3. In Data exploratory analysis and data pre-processing (removed duplicates, imputed the null values) and identified appropriate columns for the model.
 4. Created linear regression model (Python) and employ K-fold cross validation to come up with a MAE of .16. 
 4. When our model tested on an Out-Of-Time sample the RMSE was 0.359.
+Environment: Python, SQL, Exploratory Data Analysis, Data Quality, Data pre-processing, Data normalization, Linear 
+Regression model, K-fold cross validation, SQLite.
